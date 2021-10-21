@@ -1,0 +1,9 @@
+
+B
+src/pat/B1005.java,1\b\1bc21300e941ce1fd99a7f4e1babbf4c24c3cc38
+B
+src/pat/A1002.java,e\5\e519643707ae969a0ac38c55f0c2fc15311287f9
+B
+src/pat/B1029.java,4\9\49432adbf151d287cfb3458b9bb32d8d8c5a7905
+B
+src/pat/B1038.java,2\7\27768fdf64f6c360781462990a47fcdfb203e721

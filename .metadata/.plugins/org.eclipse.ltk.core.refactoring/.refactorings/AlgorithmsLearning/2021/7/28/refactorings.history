@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;basic.Heap.java&apos; to &apos;MaxHeap.java&apos;&#x0D;&#x0A;- Original project: &apos;AlgorithmsLearning&apos;&#x0D;&#x0A;- Original element: &apos;basic.Heap.java&apos;&#x0D;&#x0A;- Renamed element: &apos;basic.MaxHeap.java&apos;" description="Rename compilation unit &apos;Heap.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;basic{Heap.java" name="MaxHeap.java" references="false" stamp="1625752682300" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;codeforce&apos;&#x0D;&#x0A;- Original project: &apos;codeforce&apos;&#x0D;&#x0A;- Original element: &apos;codeforce800.Miracle_and_Sleeper.java&apos;" description="Delete element" element1="/src&lt;codeforce800{Miracle_and_Sleeper.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1632151954168" subPackages="false" version="1.0"/>
+</session>
